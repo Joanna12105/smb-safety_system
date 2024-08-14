@@ -1,0 +1,4 @@
+full_front_view_car
+covered_front_view_car
+side_view_car
+covered_side_view_car

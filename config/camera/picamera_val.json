@@ -1,0 +1,177 @@
+{
+    "15m_f4.jpg": {
+        "detected_class": "full_front_view_car",
+        "calculated distance": 11.554255203509769,
+        "actual distance": 15.0,
+        "object detected": 1,
+        "validation": 1
+    },
+    "20m_f3.jpg": {
+        "detected_class": "full_front_view_car",
+        "calculated distance": 17.010431271833827,
+        "actual distance": 20.0,
+        "object detected": 1,
+        "validation": 1
+    },
+    "10m_f2.jpg": {
+        "detected_class": "full_front_view_car",
+        "calculated distance": 7.513810132343776,
+        "actual distance": 10.0,
+        "object detected": 1,
+        "validation": 1
+    },
+    "10m_f4.jpg": {
+        "detected_class": "full_front_view_car",
+        "calculated distance": 7.378018382964069,
+        "actual distance": 10.0,
+        "object detected": 1,
+        "validation": 1
+    },
+    "10m_f1.jpg": {
+        "detected_class": "full_front_view_car",
+        "calculated distance": 7.204417950423738,
+        "actual distance": 10.0,
+        "object detected": 1,
+        "validation": 1
+    },
+    "30m.jpg": {
+        "detected_class": "full_front_view_car",
+        "calculated distance": 21.48686055389536,
+        "actual distance": 30.0,
+        "object detected": 1,
+        "validation": 0
+    },
+    "25m_f2.jpg": {
+        "detected_class": "full_front_view_car",
+        "calculated distance": 20.077886091344844,
+        "actual distance": 25.0,
+        "object detected": 1,
+        "validation": 1
+    },
+    "25m_f3.jpg": {
+        "detected_class": "full_front_view_car",
+        "calculated distance": 19.136735180813055,
+        "actual distance": 25.0,
+        "object detected": 1,
+        "validation": 0
+    },
+    "15m_f3.jpg": {
+        "detected_class": "full_front_view_car",
+        "calculated distance": 12.00736325070623,
+        "actual distance": 15.0,
+        "object detected": 1,
+        "validation": 1
+    },
+    "20m_f1.jpg": {
+        "detected_class": "full_front_view_car",
+        "calculated distance": 16.55068988610859,
+        "actual distance": 20.0,
+        "object detected": 1,
+        "validation": 1
+    },
+    "25m_f4.jpg": {
+        "detected_class": "full_front_view_car",
+        "calculated distance": 19.440492882095803,
+        "actual distance": 25.0,
+        "object detected": 1,
+        "validation": 0
+    },
+    "10m_f3.jpg": {
+        "detected_class": "full_front_view_car",
+        "calculated distance": 7.204417950423738,
+        "actual distance": 10.0,
+        "object detected": 1,
+        "validation": 1
+    },
+    "20m.jpg": {
+        "detected_class": "NO CLASS DETECTED",
+        "calculated distance": 0,
+        "actual distance": 20.0,
+        "object detected": 0,
+        "validation": 0
+    },
+    "30m_f1.jpg": {
+        "detected_class": "full_front_view_car",
+        "calculated distance": 23.55290483792376,
+        "actual distance": 30.0,
+        "object detected": 1,
+        "validation": 0
+    },
+    "30m_f3.jpg": {
+        "detected_class": "NO CLASS DETECTED",
+        "calculated distance": 0,
+        "actual distance": 30.0,
+        "object detected": 0,
+        "validation": 0
+    },
+    "15m.jpg": {
+        "detected_class": "full_front_view_car",
+        "calculated distance": 11.340287514555884,
+        "actual distance": 15.0,
+        "object detected": 1,
+        "validation": 1
+    },
+    "15m_f2.jpg": {
+        "detected_class": "full_front_view_car",
+        "calculated distance": 12.00736325070623,
+        "actual distance": 15.0,
+        "object detected": 1,
+        "validation": 1
+    },
+    "20m_f4.jpg": {
+        "detected_class": "full_front_view_car",
+        "calculated distance": 15.309388144650445,
+        "actual distance": 20.0,
+        "object detected": 1,
+        "validation": 1
+    },
+    "25m_f1.jpg": {
+        "detected_class": "full_front_view_car",
+        "calculated distance": 19.440492882095803,
+        "actual distance": 25.0,
+        "object detected": 1,
+        "validation": 0
+    },
+    "25m.jpg": {
+        "detected_class": "full_front_view_car",
+        "calculated distance": 19.136735180813055,
+        "actual distance": 25.0,
+        "object detected": 1,
+        "validation": 0
+    },
+    "20m_f2.jpg": {
+        "detected_class": "full_front_view_car",
+        "calculated distance": 15.120383352741179,
+        "actual distance": 20.0,
+        "object detected": 1,
+        "validation": 1
+    },
+    "10m.jpg": {
+        "detected_class": "full_front_view_car",
+        "calculated distance": 8.004908833804153,
+        "actual distance": 10.0,
+        "object detected": 1,
+        "validation": 1
+    },
+    "30m_f2.jpg": {
+        "detected_class": "full_front_view_car",
+        "calculated distance": 23.55290483792376,
+        "actual distance": 30.0,
+        "object detected": 1,
+        "validation": 0
+    },
+    "30m_f4.jpg": {
+        "detected_class": "full_front_view_car",
+        "calculated distance": 23.55290483792376,
+        "actual distance": 30.0,
+        "object detected": 1,
+        "validation": 0
+    },
+    "15m_f1.jpg": {
+        "detected_class": "full_front_view_car",
+        "calculated distance": 12.00736325070623,
+        "actual distance": 15.0,
+        "object detected": 1,
+        "validation": 1
+    }
+}

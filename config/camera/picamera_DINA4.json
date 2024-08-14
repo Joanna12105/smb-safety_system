@@ -1,0 +1,20 @@
+{
+    "calibration image": {
+        "image used": "/home/hshl/smb-safety_system/tools/cal_val_DINA4_imgs/2m_DINA4.jpg",
+        "focal length": 676.658039542561,
+        "known distance object": 2.0,
+        "known width object": 0.297
+    },
+    "1,5m_DINA4.jpg": {
+        "width Bounding Box": 133.49330139160156,
+        "distance Object": 1.5054496042060133,
+        "width Object": 0.297,
+        "focal length": 676.658039542561
+    },
+    "1m_DINA4.jpg": {
+        "width Bounding Box": 198.5072479248047,
+        "distance Object": 1.012393450844011,
+        "width Object": 0.297,
+        "focal length": 676.658039542561
+    }
+}

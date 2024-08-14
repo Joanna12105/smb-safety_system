@@ -1,0 +1,20 @@
+item {
+  id: 1
+  name: 'full_front_view_car'
+}
+
+item {
+  id: 2
+  name: 'covered_front_view_car'
+}
+
+item {
+  id: 3
+  name: 'side_view_car'
+}
+
+item {
+  id: 4
+  name: 'covered_side_view_car'
+}
+
