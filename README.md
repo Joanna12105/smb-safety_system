@@ -1,6 +1,6 @@
 * Bachelor thesis:  "Untersuchungen zum Einsatz von KI und Computer Vision für ein Fahrradassistenzsystem am Beispiel
                       eines rückwärtigen Abstands- und Annäherungswarners"
-* Thesis Objective: The objective of this thesis is to develop a prototype for a bicycle safety system. 
+* Thesis Objective: The objective of this thesis is to develope a prototype for a bicycle safety system. 
                      The prototype should be capable of using artificial intelligence to differentiate between the  
                      classes "full_front_view_car", "covered_front_view_car", "side_view_car" and  
                      "covered_side_view_car". Additionally, it should calculate the distance between the vehicles 
